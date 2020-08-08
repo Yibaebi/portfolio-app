@@ -1,4 +1,4 @@
-@media screen and (min-width: 960px){body {
+body {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -116,7 +116,6 @@ main {
 }
 
 h1 {
-    font-family: 'Monoton', cursive;
     text-align: center;
     background-color: white;
     border-radius: 20px;
@@ -360,4 +359,4 @@ footer {
     margin: 1em;
     width: fit-content;
 }
-}
+
