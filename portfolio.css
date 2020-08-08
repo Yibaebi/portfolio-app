@@ -152,6 +152,7 @@ h2 {
     border-bottom: 1px solid white;
     padding: 20px;
     box-shadow: 0 8px 20px -6px black;
+    width: 70%;
 }
 
 .expertise-section {
@@ -212,6 +213,7 @@ h2 {
     padding: 20px;
     box-shadow: 0 8px 20px -6px black;
     margin-bottom: 2em;
+    width: 70%;
 }
 
 #projects-container {
